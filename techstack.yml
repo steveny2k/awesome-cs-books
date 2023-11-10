@@ -1,0 +1,18 @@
+repo_name: steveny2k/awesome-cs-books
+report_id: 4a142a8a6b3411f5482f408049bfa8c2
+repo_type: Public
+timestamp: '2023-11-10T09:46:18+00:00'
+requested_by: imarvinle
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
